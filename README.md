@@ -1,9 +1,3 @@
-# Neural-Networks-Project5
-Student id: 700765371
-Student Name: Siva Kumar Choutametla
+# Deep Learning Applications in NLP and Computer Vision
 
-Built a question answering system using Hugging Face Transformers, including a custom context and pretrained model (roberta-base-squad2).
-
-Implemented a Conditional GAN (cGAN) to generate MNIST digits based on digit class labels (0–9).
-
-Demonstrated controlled generation and accurate QA responses with high confidence scores, showcasing applications in both NLP and computer vision.
+This project demonstrates applications of Neural Networks in both Natural Language Processing (NLP) and Computer Vision (CV). It combines a Question Answering system built using Hugging Face Transformers with a Conditional GAN (cGAN) for digit generation, showcasing practical deep learning techniques across multiple domains.
